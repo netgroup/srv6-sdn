@@ -1,9 +1,8 @@
 Segment Routing (SR) is a form of source routing. The SR architecture works by including a list of _segments_ in the packet headers. A segment can represent a _topological_ instruction (e.g. a node to be crossed) or a _service_ instruction (e.g. an operation to be executed on the packet). 
 
-The Segment Routing architecture can be implemented using MPLS or IPv6 as data plane. We focus on the IPv6 implementation, called _SRv6_, in which the _segments_ are identified by IPv6 addresses. It is natural to consider an SDN based approach to control SR based services in a Service Provider network. A centralized logic can take decisions concerning the Segment Lists that need to be applied to implement the services, then the SDN controller can interact with the edge nodes to enforce the application of such Segment Lists. The possibility for the SDN controller to interact only with edge nodes to setup and reconfigure complex services is extremely appealing from the point of view of the simplicity and efficiency of the solution.
+We focus on the IPv6 implementation of Segment Routing, called _SRv6_, in which the _segments_ are identified by IPv6 addresses. An SDN based approach can be used to control SR based services in a Service Provider network. A centralized logic takes decisions on the Segment Lists that need to be applied to implement the services, then the SDN controller interacts with the SR enabled devices to enforce the application of such Segment Lists. In most cases, the SDN controller can interact only with edge nodes to setup and reconfigure complex services, which is very appealing from the point of view of the simplicity and efficiency of the solution.
 
 We present hereafter our open source architecture:
-
 
 
 <img src="https://raw.githubusercontent.com/netgroup/srv6-sdn/master/docs/srv6_node.png" width="400">
