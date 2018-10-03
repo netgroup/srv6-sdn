@@ -12,7 +12,7 @@ We present hereafter our open source architecture:
 
 ### Scientific papers, technical reports, IETF drafts, Slides
 
-- P.L. Ventre, M.M. Tajiki,, S. Salsano and C. FilsFils, "[SDN Architecture and Southbound APIs for IPv6\\Segment Routing Enabled Wide Area Networks]()", submitted to IEEE Transaction on Network and Service Management (TNSM)
+- P.L. Ventre, M.M. Tajiki,, S. Salsano and C. FilsFils, "[SDN Architecture and Southbound APIs for IPv6 Segment Routing Enabled Wide Area Networks]()", submitted to IEEE Transaction on Network and Service Management (TNSM)
 
 ### pyroute2 extensions to support SRv6
 
@@ -28,8 +28,6 @@ Changelog:
 The extension is available from 0.5 release.
 
 ### SRv6 SDN Architecture and Southbound APIs
-
-TODO: Add the links to these repos:
 
 - [SRv6 Controller](https://github.com/netgroup/srv6-controller) is a collection of modules implementing different functionalities of a SDN controller
 - [SRv6 Southbound API evaluation](https://github.com/mohammad59mt/srv6-southbound-api-evaluation) is a library for performance evaluation of the SRv6 Southbound APIs.
