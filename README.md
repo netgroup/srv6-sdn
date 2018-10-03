@@ -1,5 +1,5 @@
 # SRv6-SDN
-A collection of modules implementing different functionalities of a SDN controller for SRv6
+An SDN ecosystem for SRv6 on Linux
 
 [Project web page](https://netgroup.github.io/srv6-sdn/)
 
