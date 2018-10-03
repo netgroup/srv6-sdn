@@ -4,7 +4,11 @@ The Segment Routing architecture can be implemented using MPLS or IPv6 as data p
 
 We present hereafter our open source architecture:
 
-![alt text](https://raw.githubusercontent.com/netgroup/srv6-sdn/master/docs/srv6_node.png)
+
+
+<img src="https://raw.githubusercontent.com/netgroup/srv6-sdn/master/docs/srv6_node.png" width="400">
+
+
 
 ### Scientific papers, technical reports, IETF drafts, Slides
 
