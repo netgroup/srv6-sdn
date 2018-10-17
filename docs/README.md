@@ -29,7 +29,7 @@ The extension is available from 0.5 release.
 ### SRv6 SDN Architecture and Southbound APIs
 
 - [SRv6 Controller](https://github.com/netgroup/srv6-controller) is a collection of modules implementing different functionalities of a SDN controller
-- [SRv6 Southbound API evaluation](https://github.com/mohammad59mt/srv6-southbound-api-evaluation) is a library for performance evaluation of the SRv6 Southbound APIs.
+- [SRv6 Southbound API evaluation](https://github.com/netgroup/srv6-southbound-api-evaluation) is a library for performance evaluation of the SRv6 Southbound APIs.
 
 ### Videos 
 
