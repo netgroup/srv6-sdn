@@ -11,7 +11,7 @@ We present hereafter our open source architecture:
 
 ### Scientific papers, technical reports, IETF drafts, Slides
 
-- P.L. Ventre, M.M. Tajiki,, S. Salsano and C. FilsFils, "[SDN Architecture and Southbound APIs for IPv6 Segment Routing Enabled Wide Area Networks](http://arxiv.org/abs/1810.06008)", submitted to IEEE Transaction on Network and Service Management (TNSM)
+- P.L. Ventre, M.M. Tajiki,, S. Salsano and C. FilsFils, "[SDN Architecture and Southbound APIs for IPv6 Segment Routing Enabled Wide Area Networks](http://arxiv.org/abs/1810.06008)", IEEE Transaction on Network and Service Management (TNSM), December 2018
 
 ### pyroute2 extensions to support SRv6
 
