@@ -38,5 +38,6 @@ TODO: Upload videos and add links
 ### The Team
 
 - Stefano Salsano
+- Carmine Scarpitta
 - Pier Luigi Ventre
 - Mohammad M. Tajiki
