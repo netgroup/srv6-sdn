@@ -21,11 +21,13 @@
   
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        
-          <img alt="srv6-sdn" style="float: right; border:0px; box-shadow: 0 0 0 aliceblue; -webkit-box-shadow: none"
-               src="https://github.com/netgroup/rose/raw/master/docs/images/rose-logo-recolored-red-200x60.png"
-               width="67" height="40">
-          
+
+          <a href="https://netgroup.github.io/rose/">
+             <img alt="ROSE project" src="https://github.com/netgroup/rose/raw/master/docs/images/rose-logo-recolored-red-200x60.png"
+                  style="margin: 0 0 0 0; border:0px; padding: 0; -webkit-box-shadow: none; position: absolute;
+                         right: 7px; bottom: 30px;" width="67" height="20">
+          </a>
+                    
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
